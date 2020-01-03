@@ -1,0 +1,300 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+
+.head{
+	width:100%;
+	overflow:hidden;
+}
+
+.logo{
+	width:100%;
+	float:left;
+}
+
+.logo img{
+	width:100%;
+	height:500px;
+}
+
+
+.alu {
+	margin-left: 100px;
+	margin-top:30px;
+  position: relative;
+  max-width: 250px;
+ 
+}
+
+.alu img {
+
+	height: 300px;
+	width:250px;
+}
+
+.alu .alu-price {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 10px;
+  text-align:center;
+  height:25%;
+}
+
+.alu a{
+	text-decoration:none;
+	font-size:20px;
+	background-color:#f9bcdd;
+	padding: 15px 118px;
+	position:relative;
+	margin-left:-10px;
+}
+	
+.apple {
+	margin-left: 450px;
+	margin-top:-300px;
+  position: relative;
+  max-width: 250px;
+ 
+}
+
+.apple img {
+
+	height: 300px;
+	width:250px;
+}
+
+.apple .apple-price {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 10px;
+  text-align:center;
+  height:25%;
+}
+
+.apple a{
+	text-decoration:none;
+	font-size:20px;
+	background-color:#f9bcdd;
+	padding: 15px 118px;
+	position:relative;
+	margin-left:-10px;
+}
+
+.dragon {
+	margin-left: 850px;
+	margin-top:-300px;
+  position: relative;
+  max-width: 250px;
+ 
+}
+
+.dragon img {
+
+	height: 300px;
+	width:250px;
+}
+
+.dragon .dragon-price {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 10px;
+  text-align:center;
+  height:25%;
+}
+.dragon a{
+	text-decoration:none;
+	font-size:20px;
+	background-color:#f9bcdd;
+	padding: 15px 118px;
+	position:relative;
+	margin-left:-10px;
+}
+
+.lebu {
+	margin-left: 100px;
+	margin-top:100px;
+  position: relative;
+  max-width: 250px;
+ 
+}
+
+.lebu img {
+
+	height: 300px;
+	width:250px;
+}
+
+.lebu .lebu-price {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 10px;
+  text-align:center;
+  height:25%;
+}
+
+.lebu a{
+	text-decoration:none;
+	font-size:20px;
+	background-color:#f9bcdd;
+	padding: 15px 118px;
+	position:relative;
+	margin-left:-10px;
+}
+
+.orange {
+	margin-left: 450px;
+	margin-top:-300px;
+  position: relative;
+  max-width: 250px;
+ 
+}
+
+.orange img {
+
+	height: 300px;
+	width:270px;
+}
+
+.orange .orange-price {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 10px;
+  text-align:center;
+  height:25%;
+}
+
+.orange a{
+	text-decoration:none;
+	font-size:20px;
+	background-color:#f9bcdd;
+	padding: 15px 118px;
+	position:relative;
+	margin-left:-10px;
+}
+
+.pepe {
+	margin-left: 850px;
+	margin-top:-300px;
+  position: relative;
+  max-width: 250px;
+ 
+}
+
+.pepe img {
+
+	height: 300px;
+	width:250px;
+}
+
+.pepe .pepe-price {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 10px;
+  text-align:center;
+  height:25%;
+}
+
+.pepe a{
+	text-decoration:none;
+	font-size:20px;
+	background-color:#f9bcdd;
+	padding: 15px 118px;
+	position:relative;
+	margin-left:-10px;
+}
+
+.sosha {
+	margin-left: 100px;
+	margin-top:100px;
+  position: relative;
+  max-width: 250px;
+ 
+}
+
+.sosha img {
+
+	height: 300px;
+	width:250px;
+}
+
+.sosha .sosha-price {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 10px;
+  text-align:center;
+  height:25%;
+}
+
+.sosha a{
+	text-decoration:none;
+	font-size:20px;
+	background-color:#f9bcdd;
+	padding: 15px 118px;
+	position:relative;
+	margin-left:-10px;
+}
+
+.capsicum {
+	margin-left: 450px;
+	margin-top:-300px;
+  position: relative;
+  max-width: 250px;
+  margin-bottom:30px;
+ 
+}
+
+.capsicum img {
+
+	height: 300px;
+	width:270px;
+}
+
+.capsicum .capsicum-price {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 10px;
+  text-align:center;
+  height:25%;
+}
+
+.capsicum a{
+	text-decoration:none;
+	font-size:20px;
+	background-color:#f9bcdd;
+	padding: 15px 118px;
+	position:relative;
+	margin-left:-10px;
+}

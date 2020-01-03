@@ -1,0 +1,159 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+
+.head{
+	width:100%;
+	overflow:hidden;
+}
+
+.logo{
+	width:100%;
+	float:left;
+}
+
+.logo img{
+	width:100%;
+	height:500px;
+}
+
+
+.chal {
+	margin-left: 100px;
+	margin-top:30px;
+  position: relative;
+  max-width: 250px;
+ 
+}
+
+.chal img {
+
+	height: 300px;
+	width:270px;
+}
+
+.chal .chal-price {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 10px;
+  text-align:center;
+  height:25%;
+}
+
+.chal a{
+	text-decoration:none;
+	font-size:20px;
+	background-color:#f9bcdd;
+	padding: 15px 118px;
+	position:relative;
+	margin-left:-10px;
+}
+	
+.dal {
+	margin-left: 450px;
+	margin-top:-300px;
+  position: relative;
+  max-width: 250px;
+ 
+}
+
+.dal img {
+
+	height: 300px;
+	width:270px;
+}
+
+.dal .dal-price {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 10px;
+  text-align:center;
+  height:25%;
+}
+
+.dal a{
+	text-decoration:none;
+	font-size:20px;
+	background-color:#f9bcdd;
+	padding: 15px 118px;
+	position:relative;
+	margin-left:-10px;
+}
+
+.ata {
+	margin-left: 850px;
+	margin-top:-300px;
+  position: relative;
+  max-width: 250px;
+ 
+}
+
+.ata img {
+
+	height: 300px;
+	width:270px;
+}
+
+.ata .ata-price {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 10px;
+  text-align:center;
+  height:25%;
+}
+.ata a{
+	text-decoration:none;
+	font-size:20px;
+	background-color:#f9bcdd;
+	padding: 15px 118px;
+	position:relative;
+	margin-left:-10px;
+}
+
+.milk {
+	margin-left: 100px;
+	margin-top:100px;
+  position: relative;
+  max-width: 250px;
+ 
+}
+
+.milk img {
+
+	height: 300px;
+	width:270px;
+}
+
+.milk .milk-price {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 10px;
+  text-align:center;
+  height:25%;
+}
+
+.milk a{
+	text-decoration:none;
+	font-size:20px;
+	background-color:#f9bcdd;
+	padding: 15px 118px;
+	position:relative;
+	margin-left:-10px;
+}
